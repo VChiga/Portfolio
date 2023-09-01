@@ -1,0 +1,400 @@
+.portfolio-work-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.portfolio-work-page-portfolio-work-page {
+  width: 100%;
+  height: 2688px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(243, 243, 243, 1);
+}
+.portfolio-work-page-footer {
+  gap: 620px;
+  top: 2563px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 50px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.portfolio-work-page-name {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+.portfolio-work-page-text {
+  color: var(--dl-color-default-mainblack);
+  width: 192px;
+  height: auto;
+  font-size: 21px;
+  font-style: Medium;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 500;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-social-links {
+  gap: 32px;
+  display: flex;
+  align-items: flex-start;
+}
+.portfolio-work-page-text02 {
+  color: var(--dl-color-default-mainblack);
+  width: 98px;
+  height: auto;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.portfolio-work-page-body {
+  gap: 114px;
+  top: 757px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 0 160px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.portfolio-work-page-project01 {
+  gap: 108px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.portfolio-work-page-description {
+  gap: 124px;
+  display: flex;
+  align-items: flex-start;
+}
+.portfolio-work-page-frame1 {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.portfolio-work-page-text04 {
+  color: var(--dl-color-default-mainblack);
+  width: 326px;
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 121.50000333786011%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-text06 {
+  color: var(--dl-color-default-mainblack);
+  width: 356px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 121.50000333786011%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-text08 {
+  color: var(--dl-color-default-mainblack);
+  width: 326px;
+  height: auto;
+  text-align: left;
+  line-height: 121.50000333786011%;
+}
+.portfolio-work-page-img {
+  width: 640px;
+  height: 364.6781311035156px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(96, 96, 96, 1);
+}
+.portfolio-work-page-cover1 {
+  top: -35px;
+  left: -6px;
+  width: 651px;
+  height: 439px;
+  position: absolute;
+}
+.portfolio-work-page-seperator {
+  width: 1115px;
+  height: 1px;
+}
+.portfolio-work-page-project02 {
+  gap: 124px;
+  display: flex;
+  align-items: flex-start;
+}
+.portfolio-work-page-description1 {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.portfolio-work-page-text10 {
+  color: var(--dl-color-default-mainblack);
+  width: 326px;
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 121.50000333786011%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-text15 {
+  color: var(--dl-color-default-mainblack);
+  width: 356px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 121.50000333786011%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-text17 {
+  color: var(--dl-color-default-mainblack);
+  width: 326px;
+  height: auto;
+  text-align: left;
+  line-height: 121.50000333786011%;
+}
+.portfolio-work-page-img1 {
+  width: 640px;
+  height: 364.6781311035156px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(96, 96, 96, 1);
+}
+.portfolio-work-page-image1 {
+  top: -11px;
+  left: -38px;
+  width: 715px;
+  height: 374px;
+  position: absolute;
+}
+.portfolio-work-page-seperator1 {
+  width: 1115px;
+  height: 1px;
+}
+.portfolio-work-page-project03 {
+  gap: 124px;
+  width: 1120px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.portfolio-work-page-description2 {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.portfolio-work-page-text19 {
+  color: var(--dl-color-default-mainblack);
+  width: 326px;
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 121.50000333786011%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-text21 {
+  color: var(--dl-color-default-mainblack);
+  width: 356px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 121.50000333786011%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-text23 {
+  color: var(--dl-color-default-maingray);
+  width: 326px;
+  height: auto;
+  text-align: left;
+  line-height: 121.50000333786011%;
+}
+.portfolio-work-page-img2 {
+  width: 640px;
+  height: 364.6781311035156px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(96, 96, 96, 1);
+}
+.portfolio-work-page-image2 {
+  top: 0px;
+  left: -36px;
+  width: 734px;
+  height: 367px;
+  position: absolute;
+}
+.portfolio-work-page-top {
+  gap: 200px;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.portfolio-work-page-navigation-bar {
+  gap: 800px;
+  display: flex;
+  align-items: center;
+}
+.portfolio-work-page-nav {
+  gap: 811px;
+  width: 1440px;
+  display: flex;
+  padding: 50px 0;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.portfolio-work-page-logo {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+.portfolio-work-page-text25 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 43px;
+  font-style: Medium;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 500;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-menu {
+  gap: 32px;
+  display: flex;
+  align-items: flex-start;
+}
+.portfolio-work-page-work {
+  width: 49.60137939453125px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.portfolio-work-page-text27 {
+  color: var(--dl-color-default-mainblack);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.portfolio-work-page-about {
+  width: 58.5296630859375px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.portfolio-work-page-text29 {
+  color: var(--dl-color-default-mainblack);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.portfolio-work-page-contact {
+  width: 77.378173828125px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.portfolio-work-page-text31 {
+  color: var(--dl-color-default-mainblack);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.portfolio-work-page-frame4 {
+  gap: 116px;
+  width: 1440px;
+  display: flex;
+  padding: 0 160px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.portfolio-work-page-frame3 {
+  gap: 116px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.portfolio-work-page-text33 {
+  color: var(--dl-color-default-mainblack);
+  width: 360px;
+  height: auto;
+  text-align: left;
+  line-height: 97.20000624656677%;
+}
+.portfolio-work-page-text40 {
+  color: rgba(96, 96, 96, 1);
+  width: 580px;
+  height: auto;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 116.99999570846558%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portfolio-work-page-svg {
+  width: 34px;
+  height: 38px;
+  box-sizing: content-box;
+}
